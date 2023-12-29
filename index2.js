@@ -1,2 +1,1 @@
-let nati = true;
-console.log(nati)
+// what the fuck
